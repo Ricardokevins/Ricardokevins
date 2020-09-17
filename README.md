@@ -11,4 +11,5 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ricardokevins)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardokevins)](https://github.com/anuraghazra/github-readme-stats)
