@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Nanjing University
+- 🔭 I’m currently working in Nanjing University
 - 🌱 I’m currently learning NLP
 - 👯 My Blog : https://www.yuque.com/kevinpro
 - 📫 How to reach me: 3121416933@qq.com
