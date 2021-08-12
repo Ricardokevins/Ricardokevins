@@ -14,7 +14,80 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardokevins)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 90 Contributions in the Year 2021
+ > 
+> 📦 398.1 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    73 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.31% 
+🌆 Daytime    102 commits    ██████░░░░░░░░░░░░░░░░░░░   26.98% 
+🌃 Evening    142 commits    █████████░░░░░░░░░░░░░░░░   37.57% 
+🌙 Night      61 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.14%
+
 ```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.64% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
+Wednesday    49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
+Thursday     76 commits     █████░░░░░░░░░░░░░░░░░░░░   20.11% 
+Friday       45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
+Saturday     60 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.87% 
+Sunday       86 commits     █████░░░░░░░░░░░░░░░░░░░░   22.75%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   13 repos            ████████████░░░░░░░░░░░░░   50.0% 
+C++                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   26.92% 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Verilog                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Ricardokevins/Ricardokevins/master/charts/bar_graph.png) 
+
+
+ Last Updated on 12/08/2021
 <!--END_SECTION:waka-->
