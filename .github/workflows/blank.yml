@@ -1,16 +1,16 @@
-name: WakaTime Readme
+name: Waka Readme
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - master
   schedule:
+    # Runs at 00:00AM UTC
     - cron: '10 * * * *'
 
 jobs:
   update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
     steps:
       - uses: athul/waka-readme@master
         with:
@@ -20,3 +20,5 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           LOCALE: "en"
           SHOW_PROFILE_VIEWS: "True"
+
+
