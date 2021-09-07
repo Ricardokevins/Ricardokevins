@@ -97,5 +97,5 @@ Verilog                  1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ricardokevins/Ricardokevins/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/09/2021
+ Last Updated on 07/09/2021
 <!--END_SECTION:waka-->
