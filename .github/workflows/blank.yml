@@ -21,6 +21,5 @@ jobs:
           SHOW_LANGUAGE: True
           SHOW_PROJECTS: True
           SHOW_LANGUAGE_PER_REPO: True
-          SHOW_SHORT_INFO: False
+          SHOW_SHORT_INFO: True
           SHOW_LOC_CHART: False
-          IGNORED_REPOS: "NLPCC2021"
