@@ -13,11 +13,11 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ricardokevins)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 154 Contributions in the Year 2021
  > 
-> 📦 450.4 kB Used in Github's Storage 
+> 📦 450.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
