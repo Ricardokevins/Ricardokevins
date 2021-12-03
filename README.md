@@ -3,7 +3,7 @@
 - 🔭 I’m currently working in Nanjing University
 - 🌱 I’m currently learning NLP
 - 👯 My Blog : https://www.yuque.com/kevinpro
-- 📫 How to reach me: 3121416933@qq.com
+- 📫 How to reach me: shesj@smail.nju.edn.cn
 
 ##### Languages I use
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
