@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in Nanjing University as PhD candidate Under the supervision of Prof.Huang Shujian
-- 🌱 I’m currently learning NLP especialy on Summarizaion and Factual Consistency
+- 🔭 Working in Nanjing University as PhD candidate Under the supervision of Prof.Huang Shujian
+- 🌱 Learning NLP especialy on Summarizaion and Factual Consistency
 - 👯 My Blog : https://www.yuque.com/kevinpro
 - 📫 How to reach me: shesj@smail.nju.edn.cn
 
