@@ -13,3 +13,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ricardokevins)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?theme=vue&include_all_commits=true&username=Ricardokevins&show_icons=true&hide_border=true"></a> --->
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Ricardokevins/Kevinpro-NLP-demo,Ricardokevins/Bert-In-Relation-Extraction&type=Date)](https://star-history.com/#Ricardokevins/Kevinpro-NLP-demo&Ricardokevins/Bert-In-Relation-Extraction&Date)
