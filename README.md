@@ -22,6 +22,7 @@
 /github/stars/Ricardokevins/Bert-In-Relation-Extraction
 
 
+![Top Langs](Ricardokevins/Bert-In-Relation-Extraction)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Ricardokevins/Kevinpro-NLP-demo,Ricardokevins/Bert-In-Relation-Extraction&type=Date)](https://star-history.com/#Ricardokevins/Kevinpro-NLP-demo&Ricardokevins/Bert-In-Relation-Extraction&Date)
