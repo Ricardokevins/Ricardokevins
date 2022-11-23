@@ -19,6 +19,8 @@
   <img src="https://profile-counter.glitch.me/Ricardokevins/count.svg" />
 </p>
 
+https://badgen.net/github/stars/Ricardokevins/Ricardokevins
+
 
 ## Star History
 
