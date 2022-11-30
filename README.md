@@ -19,10 +19,6 @@
   <img src="https://profile-counter.glitch.me/Ricardokevins/count.svg" />
 </p>
 
-
-
-![Top Langs](https://badgen.net/github/commits/Ricardokevins/Bert-In-Relation-Extraction)
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Ricardokevins/Kevinpro-NLP-demo,Ricardokevins/Bert-In-Relation-Extraction&type=Date)](https://star-history.com/#Ricardokevins/Kevinpro-NLP-demo&Ricardokevins/Bert-In-Relation-Extraction&Date)
