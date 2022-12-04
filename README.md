@@ -21,6 +21,6 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Ricardokevins/Kevinpro-NLP-demo,Ricardokevins/Bert-In-Relation-Extraction&type=Date)(https://star-history.com/#Ricardokevins/Kevinpro-NLP-demo&Ricardokevins/Bert-In-Relation-Extraction&Date=100x20)
+<!-- [![Star History Chart](https://api.star-history.com/svg?repos=Ricardokevins/Kevinpro-NLP-demo,Ricardokevins/Bert-In-Relation-Extraction&type=Date=100x20)(https://star-history.com/#Ricardokevins/Kevinpro-NLP-demo&Ricardokevins/Bert-In-Relation-Extraction&Date=100x20) -->
 <!-- <iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX3o4TjlwSnpIbUFWOTBXcmVsTVBkcGFIb2pWZmpuUTBVVG5lQQ==#Ricardokevins/Bert-In-Relation-Extraction&Ricardokevins/Kevinpro-NLP-demo&Date" frameBorder="0"></iframe>
  -->
