@@ -18,7 +18,9 @@
 
 test
 
-<!--- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://gitstat-12ri-nedshv8vc-ricardokevins.vercel.app/api?theme=vue&include_all_commits=true&username=Ricardokevins&show_icons=true&hide_border=true"></a> --->
+[![sad0xer's GitHub Statistics](https://gitstat-12ri-nedshv8vc-ricardokevins.vercel.app/api?username=sad0xer)](https://github.com/anuraghazra/github-readme-stats)```
+
+<!--- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https:///api?theme=vue&include_all_commits=true&username=Ricardokevins&show_icons=true&hide_border=true"></a> --->
 
 test
 
