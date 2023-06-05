@@ -5,8 +5,6 @@
 - 👯 My Blog : https://ricardokevins.github.io/
 - 📫 How to reach me: shesj@smail.nju.edn.cn
 
-![](https://visitor-badge.glitch.me/badge?page_id=Ricardokevins.readme)
-
 ##### Languages I use
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
