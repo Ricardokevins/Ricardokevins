@@ -3,7 +3,7 @@
 - 🔭 Working in Nanjing University as PhD candidate Under the supervision of Prof.Huang Shujian
 - 🌱 Learning NLP especially on Summarizaion and Factual Consistency
 - 👯 My Blog : https://ricardokevins.github.io/
-- 📫 How to reach me: shesj@smail.nju.edn.cn
+- 📫 How to reach me: shesj@smail.nju.edu.cn
 
 ##### Languages I use
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
