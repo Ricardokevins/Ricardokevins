@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 
-[![GitHub Statistics](https://gitstat-12ri-nedshv8vc-ricardokevins.vercel.app/api?username=Ricardokevins)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Statistics](https://github-readme-stats-kvf4.vercel.app/api?username=Ricardokevins)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center"> 
