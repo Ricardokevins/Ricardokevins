@@ -10,7 +10,7 @@
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardokevins)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardokevins)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 
   Visitor count<br>
